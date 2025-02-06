@@ -1,7 +1,7 @@
-# School Shootings in the USA from 1990-2025: A Data Analysis Project
+# School Shootings in the USA from 1990-2024: A Data Analysis Project
 
 ## Introduction
-As a person who attended school in the United States, school shootings have always been a serious concern. Over the years, we’ve seen the devastating impact of these events on students, families, and entire communities. This project aims to understand the patterns behind school shootings in the USA, from 1990 to 2025, and how data analysis can provide insights into trends, severity, and geographic areas most affected. By analyzing this data, we can contribute to the development of better laws, regulations, and policies that could ultimately help prevent such tragedies and improve school safety across the nation.
+As a person who attended school in the United States, school shootings have always been a serious concern. Over the years, we’ve seen the devastating impact of these events on students, families, and entire communities. This project aims to understand the patterns behind school shootings in the USA, from 1990 to 2024, and how data analysis can provide insights into trends, severity, and geographic areas most affected. By analyzing this data, we can contribute to the development of better laws, regulations, and policies that could ultimately help prevent such tragedies and improve school safety across the nation.
 
 ## Why This Project?
 School shootings have long been an issue affecting our nation’s youth and education system. As an advocate for using data to inform decisions, I believe that data analysis can help us better understand the factors surrounding these events, potentially shaping more effective policies, regulations, and laws. By exploring the historical data on school shootings, we can identify key trends, hotspots, and patterns that can guide future legislative actions and preventive measures.
