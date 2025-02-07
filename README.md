@@ -13,10 +13,10 @@ School violence is a pressing issue that demands a data-driven approach to under
 
 ## 📂 Project Contents
 Each phase of the project is documented in detail. Click on any day to navigate directly to that section:
-- [**Day 1 - Data Cleaning and Handling Missing Information (Completed)**](#day-1-data-cleaning-and-missing-information)
-- [**Day 2 - Data Analysis & Summary (Completed)**](#day-2-data-analysis--summary)
-- [**Day 3 - Visualizing Data with Tableau (Coming Soon)**](#day-3-visualizing-data-with-tableau)
-- [**Day 4 - Report Writing & Final Insights (Coming Soon)**](#day-4-report-writing--final-insights)
+- [**Day 1 - Data Cleaning and Handling Missing Information**](#day-1-data-cleaning-and-missing-information)
+- [**Day 2 - Data Analysis & Summary**](#day-2-data-analysis--summary)
+- [**Day 3 - Visualizing Data with Tableau**](#day-3-visualizing-data-with-tableau)
+- [**Day 4 - Report Writing & Final Insights**](#day-4-report-writing--final-insights)
   
 ---
 
@@ -76,18 +76,49 @@ This analysis reveals several critical trends and patterns in school shootings. 
 
 ---
 
-## 🎨 Day 3: Visualizing Data with Tableau *(Coming Soon)*
-Data will be visualized using Tableau to create interactive charts and graphs for:
-- Yearly trends.
-- Geographic distribution.
-- School type analysis.
+## 🎨 Day 3: Visualizing Data with Tableau  
+Today, I used **Tableau** to create a dashboard that visualizes school shootings in the U.S. from **1990 to 2024**. Key insights include:  
+
+📊 **Yearly Trends** – Analyzing how incidents have fluctuated over time.  
+🗺️ **Geographic Distribution** – Mapping where school shootings have occurred across the country.  
+🏫 **School Type Analysis** – Comparing incidents across elementary, middle, high schools, and universities.  
+
+🔗 **View the Dashboard:** [Tableau Public – School Shootings in USA (1990-2024)](https://public.tableau.com/app/profile/yoada.zeleke/viz/SchoolShootingsinUSA1990-2024/Dashboard1)  
+
+![School Shootings USA in 1990-2024](https://github.com/user-attachments/assets/7ca6ebcd-e756-4719-bc5d-3b52f602e97b)  
 
 [Back to Top](#-project-contents)
 
 ---
 
-## 📝 Day 4: Report Writing & Final Insights *(Coming Soon)*
-The final report will summarize findings, highlight key takeaways, and provide policy recommendations.
+## 📝 **Day 4: Report Writing & Final Insights**  
+Today, I analyzed key findings from the **Tableau dashboard** and compiled a **mini report** summarizing insights on school shootings in the U.S. (1990-2024).  
+
+🔗 **View the Interactive Dashboard:** [Tableau Public – School Shootings in USA (1990-2024)](https://public.tableau.com/app/profile/yoada.zeleke/viz/SchoolShootingsinUSA1990-2024/Dashboard1)  
+
+### 🔍 **Key Insights:**  
+- **📈 Yearly Trends:** There has been a **notable increase in incidents over the decades,** with **2018 & 2022** marking the highest occurrences.  
+- **🗺️ Geographic Hotspots:** **California, Texas, and Florida** have reported the most incidents, with a concentration in **urban areas.**  
+- **🏫 School Type Analysis:** **High schools** are the most commonly affected, but **college/university** shootings tend to result in **higher fatalities.**  
+- **🧠 Mental Health & Contributing Factors:**  
+  - Many shooters had **documented histories of mental illness** or behavioral concerns.  
+  - **Lack of early intervention, social isolation, and access to firearms** are recurring themes.  
+  - The **role of bullying, social rejection, and extremist ideologies** has been observed in multiple cases.  
+
+### 💔 **Deadliest School Shootings (1990-2024):**  
+These tragic events had the highest number of casualties and lasting impacts:  
+
+1. **Virginia Tech Massacre (2007)** – 32 killed, 17 injured.  
+2. **Sandy Hook Elementary School (2012)** – 26 killed, 2 injured.  
+3. **Robb Elementary School, Uvalde, TX (2022)** – 21 killed, 17 injured.  
+4. **Stoneman Douglas High School, Parkland, FL (2018)** – 17 killed, 17 injured.  
+5. **Columbine High School, CO (1999)** – 13 killed, 24 injured.  
+6. **Red Lake Senior High School, MN (2005)** – 9 killed, 5 injured.  
+7. **Santa Fe High School, TX (2018)** – 10 killed, 13 injured.  
+
+📌 **Read the Full Report:** [GitHub Report (Coming Soon)]  
+
+📊 **Data Source:** [Kaggle Dataset – School Shootings (1990-Present)](https://www.kaggle.com/datasets/ecodan/school-shootings-us-1990present?select=pah_wikp_combo.csv)  
 
 [Back to Top](#-project-contents)
 
