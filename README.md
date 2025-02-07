@@ -17,7 +17,7 @@ Each phase of the project is documented in detail. Click on any day to navigate 
 - [**Day 2 - Data Analysis & Summary (Completed)**](#day-2-data-analysis--summary)
 - [**Day 3 - Visualizing Data with Tableau (Coming Soon)**](#day-3-visualizing-data-with-tableau)
 - [**Day 4 - Report Writing & Final Insights (Coming Soon)**](#day-4-report-writing--final-insights)
-
+  
 ---
 
 ## 📊 Day 1: Data Cleaning and Handling Missing Information
@@ -53,10 +53,10 @@ The cleaned dataset will be analyzed to uncover:
 This report summarizes the key findings from an analysis of school shooting data in the United States between 1990 and 2024. Six charts were used to explore trends, patterns, and contributing factors related to these incidents.
 
 1. Trends Over Time: The annual number of school shootings has increased dramatically in recent years, particularly since 2018. While fluctuations existed in the period from 1990 to the mid-2010s, the current decade shows a significant and concerning upward trend. This highlights the escalating nature of the crisis and the urgent need for effective interventions.
-![Number of School Shootings (1990-2024) by Year](https://github.com/user-attachments/assets/cf96a8b8-5664-4c0d-b4fa-516a96f2ec3b)
+![Number of School Shootings (1990-2024) by Year](https://github.com/user-attachments/assets/26b18c0c-749e-4966-8902-a5b27d105119)
 ￼
 2. School Type: High schools are disproportionately affected by school shootings, accounting for the largest share of incidents. Colleges and universities also experience a significant number of shootings, though considerably fewer. Middle and elementary schools, while less frequent, are not immune, demonstrating the vulnerability of students across all age groups.
-![Number of School Shootings by School Type (1990-2024)](https://github.com/user-attachments/assets/f7d4d3cf-8345-41b6-9ba9-c32b83215dd3)
+![Number of School Shootings by School Type (1990-2024)](https://github.com/user-attachments/assets/6222e6fd-d240-4b30-beb3-1ee7f56a48e7)
 ￼
 3. Timing of Incidents: Analysis of monthly patterns reveals potential seasonal influences. January and February, along with September and October, show a higher concentration of incidents. June and July exhibit the lowest number of shootings, likely due to the fact that school is typically not in session during these months, suggesting a strong correlation with the academic calendar.
 ![Number of Shootings for each Month (1990-2024)](https://github.com/user-attachments/assets/870e556e-184d-4f41-90af-36d87adf5071)
