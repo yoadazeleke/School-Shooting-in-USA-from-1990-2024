@@ -1,0 +1,739 @@
+Date,City,State,AreaType,School Type,Fatalities,Wounded,Month,Year,Day of Week,Region,Severity
+3/27/1990,Brooklyn,New York,urban,College,0,1,March,1990,Tuesday,Northeast,Low
+5/20/1990,Centerville,Tennessee,suburban,High School,1,Unknown,May,1990,Sunday,South,Low
+8/26/1990,Las Vegas,Nevada,urban,High School,1,Unknown,August,1990,Sunday,West,Low
+9/11/1990,San Antonio,Texas,urban,High School,0,3,September,1990,Tuesday,South,Medium
+1/8/1991,Richardson,Texas,urban,High School,0,Unknown,January,1991,Tuesday,South,Low
+2/6/1991,Donna,Texas,suburban,High School,1,0,February,1991,Wednesday,South,Low
+4/23/1991,Compton,California,urban,Middle School,1,0,April,1991,Tuesday,West,Low
+9/18/1991,Crosby,Texas,suburban,High School,1,0,September,1991,Wednesday,South,Low
+10/8/1991,Bronx,New York,urban,High School,1,Unknown,October,1991,Tuesday,Northeast,Low
+11/1/1991,Iowa City,Iowa,urban,College,6,1,November,1991,Friday,Midwest,High
+11/14/1991,Houston,Texas,urban,High School,0,Unknown,November,1991,Thursday,South,Low
+11/25/1991,Brooklyn,New York,urban,High School,1,0,November,1991,Monday,Northeast,Low
+12/12/1991,Kent,Ohio,suburban,College,1,0,December,1991,Thursday,Midwest,Low
+1/29/1992,Kent,Ohio,suburban,College,0,1,January,1992,Wednesday,Midwest,Low
+2/26/1992,Brooklyn,New York,urban,High School,2,0,February,1992,Wednesday,Northeast,Low
+5/1/1992,Olivehurst,California,rural,High School,3,10,May,1992,Friday,West,High
+5/14/1992,Napa,California,urban,Middle School,0,Unknown,May,1992,Thursday,West,Low
+9/11/1992,Lincoln,Texas,urban,High School,0,Unknown,September,1992,Friday,South,Low
+10/12/1992,Lincoln,Nebraska,urban,College,0,Unknown,October,1992,Monday,Midwest,Low
+10/12/1992,Tucson,Arizona,urban,High School,1,Unknown,October,1992,Monday,West,Low
+10/19/1992,The Bronx,New York,urban,High School,0,3,October,1992,Monday,Northeast,Medium
+11/4/1992,Detroit,Michigan,urban,High School,0,11,November,1992,Wednesday,Midwest,High
+11/10/1992,Chicago,Illinois,urban,Elementry School,0,Unknown,November,1992,Tuesday,Midwest,Low
+11/13/1992,Houston,Texas,urban,High School,1,Unknown,November,1992,Friday,South,Low
+11/16/1992,Birmingham,Alabama,urban,High School,1,Unknown,November,1992,Monday,South,Low
+11/20/1992,Chicago,Illinois,urban,High School,1,Unknown,November,1992,Friday,Midwest,Low
+11/23/1992,Buffalo,New York,urban,High School,0,Unknown,November,1992,Monday,Northeast,Low
+12/3/1992,Chicago,Illinois,urban,Elementry School,1,Unknown,December,1992,Thursday,Midwest,Low
+12/14/1992,Great Barrington,Massachusetts,rural,College,2,4,December,1992,Monday,Northeast,High
+1/6/1993,Brentwood,New York,suburban,High School,0,1,January,1993,Wednesday,Northeast,Low
+1/8/1993,Kinzers,Pennsylvania,rural,High School,1,Unknown,January,1993,Friday,Northeast,Low
+1/12/1993,Miami,Florida,urban,High School,1,Unknown,January,1993,Tuesday,South,Low
+1/18/1993,Grayson,Kentucky,rural,High School,2,0,January,1993,Monday,South,Low
+1/21/1993,Los Angeles,California,urban,High School,1,Unknown,January,1993,Thursday,West,Low
+2/1/1993,Redmond,Washington,urban,Middle School,1,Unknown,February,1993,Monday,West,Low
+2/1/1993,Amityville,New York,suburban,High School,1,Unknown,February,1993,Monday,Northeast,Low
+2/4/1993,Clayton County,Georgia,urban,High School,1,Unknown,February,1993,Thursday,South,Low
+2/8/1993,Middle River,Minnesota,rural,Middle School,1,Unknown,February,1993,Monday,Midwest,Low
+2/8/1993,Washington DC,District of Columbia,urban,High School,1,Unknown,February,1993,Monday,South,Low
+2/18/1993,Dallas,Texas,urban,High School,1,Unknown,February,1993,Thursday,South,Low
+2/22/1993,Los Angeles,California,urban,High School,1,0,February,1993,Monday,West,Low
+2/26/1993,Gloucester,Massachusetts,suburban,High School,0,Unknown,February,1993,Friday,Northeast,Low
+3/18/1993,Harlem,Georgia,suburban,High School,1,Unknown,March,1993,Thursday,South,Low
+3/25/1993,St. Louis,Missouri,urban,High School,1,Unknown,March,1993,Thursday,Midwest,Low
+4/3/1993,Sacramento,California,urban,High School,1,Unknown,April,1993,Saturday,West,Low
+4/14/1993,Irving,Texas,urban,High School,1,Unknown,April,1993,Wednesday,South,Low
+4/15/1993,Acushnet,Massachusetts,suburban,Middle School,1,0,April,1993,Thursday,Northeast,Low
+4/16/1993,Sacramento,California,urban,High School,1,Unknown,April,1993,Friday,West,Low
+4/26/1993,Raleigh,North Carolina,urban,High School,1,Unknown,April,1993,Monday,South,Low
+5/14/1993,Irving,Texas,urban,High School,1,0,May,1993,Friday,South,Low
+5/24/1993,Red Hill,Pennsylvania,rural,High School,1,Unknown,May,1993,Monday,Northeast,Low
+5/24/1993,Pennsburg,Pennsylvania,rural,High School,1,0,May,1993,Monday,Northeast,Low
+5/27/1993,New Orleans,Louisiana,urban,High School,1,Unknown,May,1993,Thursday,South,Low
+7/8/1993,Ogden,Utah,urban,College,1,Unknown,July,1993,Thursday,West,Low
+8/31/1993,Atlanta,Georgia,urban,High School,1,Unknown,August,1993,Tuesday,South,Low
+9/2/1993,Dallas,Texas,urban,High School,1,Unknown,September,1993,Thursday,South,Low
+9/17/1993,Sheridan,Wyoming,rural,Middle School,1,4,September,1993,Friday,West,Medium
+9/18/1993,Sheridan,Wyoming,suburban,Middle School,1,Unknown,September,1993,Saturday,West,Low
+10/12/1993,New Castle,Delaware,suburban,High School,1,Unknown,October,1993,Tuesday,South,Low
+10/14/1993,Detroit,Michigan,urban,High School,1,Unknown,October,1993,Thursday,Midwest,Low
+11/1/1993,Chicago,Illinois,urban,High School,1,Unknown,November,1993,Monday,Midwest,Low
+11/4/1993,Jacksonville,Florida,urban,High School,1,Unknown,November,1993,Thursday,South,Low
+11/4/1993,New Britain,Connecticut,urban,High School,1,0,November,1993,Thursday,Northeast,Low
+11/5/1993,Bay Springs,Mississippi,rural,High School,1,Unknown,November,1993,Friday,South,Low
+11/29/1993,Kansas City,Missouri,urban,High School,1,Unknown,November,1993,Monday,Midwest,Low
+12/1/1993,Wauwatosa,Wisconsin,suburban,High School,1,0,December,1993,Wednesday,Midwest,Low
+12/8/1993,Savannah,Georgia,urban,High School,1,Unknown,December,1993,Wednesday,South,Low
+12/17/1993,Chelsea,Michigan,suburban,High School,1,Unknown,December,1993,Friday,Midwest,Low
+1/20/1994,Kennard,Texas,rural,High School,0,Unknown,January,1994,Thursday,South,Low
+1/20/1994,Hacienda Heights,California,urban,High School,1,Unknown,January,1994,Thursday,West,Low
+1/24/1994,Columbia,South Carolina,urban,High School,1,0,January,1994,Monday,South,Low
+1/31/1994,Seattle,Washington,urban,Middle School,1,0,January,1994,Monday,West,Low
+2/8/1994,Detroit,Michigan,urban,High School,1,Unknown,February,1994,Tuesday,Midwest,Low
+2/14/1994,Belmont,California,suburban,High School,1,Unknown,February,1994,Monday,West,Low
+2/18/1994,Spartanburg,South Carolina,suburban,High School,0,1,February,1994,Friday,South,Low
+3/1/1994,Boonville,Missouri,rural,High School,2,0,March,1994,Tuesday,Midwest,Low
+3/15/1994,Charleston,South Carolina,urban,High School,1,Unknown,March,1994,Tuesday,South,Low
+3/22/1994,Riveria Beach,Florida,urban,Middle School,0,Unknown,March,1994,Tuesday,South,Low
+3/23/1994,Seattle,Washington,urban,High School,1,Unknown,March,1994,Wednesday,West,Low
+3/25/1994,Woodstock,Georgia,suburban,High School,0,Unknown,March,1994,Friday,South,Low
+4/12/1994,Butte,Montana,rural,Elementry School,1,0,April,1994,Tuesday,West,Low
+4/13/1994,Los Angeles,California,urban,Elementry School,0,Unknown,April,1994,Wednesday,West,Low
+4/21/1994,Nashville,Tennessee,urban,Middle School,1,0,April,1994,Thursday,South,Low
+5/2/1994,North Miami,Florida,suburban,High School,1,Unknown,May,1994,Monday,South,Low
+5/25/1994,Union,Kentucky,suburban,High School,4,Unknown,May,1994,Wednesday,South,Medium
+7/25/1994,Ottumwa,Iowa,suburban,High School,1,Unknown,July,1994,Monday,Midwest,Low
+9/7/1994,Hollywood,California,urban,High School,1,Unknown,September,1994,Wednesday,West,Low
+10/12/1994,Greensboro,North Carolina,urban,High School,1,1,October,1994,Wednesday,South,Low
+10/17/1994,Chicago,Illinois,urban,High School,0,1,October,1994,Monday,Midwest,Low
+11/5/1994,San Leandro,California,urban,Elementry School,1,Unknown,November,1994,Saturday,West,Low
+11/7/1994,Wickliffe,Ohio,suburban,Middle School,1,4,November,1994,Monday,Midwest,Medium
+11/15/1994,Tacoma,Washington,urban,High School,1,Unknown,November,1994,Tuesday,West,Low
+12/14/1994,Albany,New York,urban,College,0,1,December,1994,Wednesday,Northeast,Low
+1/5/1995,Washington DC,District of Columbia,urban,High School,1,Unknown,January,1995,Thursday,South,Low
+1/10/1995,Palm Beach Gardens,Florida,suburban,High School,0,Unknown,January,1995,Tuesday,South,Low
+1/12/1995,Seattle,Washington,urban,High School,0,2,January,1995,Thursday,West,Low
+1/23/1995,Redlands,California,urban,Middle School,1,Unknown,January,1995,Monday,West,Low
+1/26/1995,Chapel Hill,North Carolina,urban,College,2,Unknown,January,1995,Thursday,South,Low
+2/2/1995,Long Beach,California,urban,High School,1,Unknown,February,1995,Thursday,West,Low
+8/29/1995,Laredo,Texas,urban,Middle School,1,Unknown,August,1995,Tuesday,South,Low
+9/12/1995,Memphis,Tennessee,urban,High School,1,Unknown,September,1995,Tuesday,South,Low
+9/14/1995,Olathe,Kansas,urban,High School,2,Unknown,September,1995,Thursday,Midwest,Low
+9/29/1995,Tavares,Florida,suburban,Middle School,1,0,September,1995,Friday,South,Low
+10/12/1995,Blackville,South Carolina,rural,High School,2,1,October,1995,Thursday,South,Medium
+11/15/1995,Lynnville,Tennessee,rural,High School,2,1,November,1995,Wednesday,South,Medium
+11/28/1995,queens,New York,urban,High School,1,Unknown,November,1995,Tuesday,Northeast,Low
+1/19/1996,Washington,District of Columbia,urban,High School,1,0,January,1996,Friday,South,Low
+1/26/1996,memphis,Tennessee,urban,High School,1,Unknown,January,1996,Friday,South,Low
+2/2/1996,Moses Lake,Washington,suburban,Middle School,3,1,February,1996,Friday,West,Medium
+2/8/1996,Palo Alto,California,urban,High School,1,Unknown,February,1996,Thursday,West,Low
+2/29/1996,St. Louis,Missouri,urban,High School,1,1,February,1996,Thursday,Midwest,Low
+3/11/1996,New London,North Carolina,rural,High School,1,Unknown,March,1996,Monday,South,Low
+4/11/1996,Talledega,Alabama,suburban,High School,1,Unknown,April,1996,Thursday,South,Low
+6/4/1996,Hemet,California,urban,High School,1,Unknown,June,1996,Tuesday,West,Low
+8/15/1996,San Diego,California,urban,College,3,0,August,1996,Thursday,West,Medium
+8/26/1996,San Antonio,Texas,urban,College,1,Unknown,August,1996,Monday,South,Low
+9/17/1996,State College,Pennsylvania,suburban,College,1,2,September,1996,Tuesday,Northeast,Medium
+9/25/1996,Scottdale,Georgia,suburban,High School,1,Unknown,September,1996,Wednesday,South,Low
+9/25/1996,Decatur,Georgia,suburban,High School,1,2,September,1996,Wednesday,South,Medium
+10/2/1996,Philadelphia,Pennsylvania,urban,Elementry School,2,Unknown,October,1996,Wednesday,Northeast,Low
+10/4/1996,Playa del Rey,California,suburban,High School,1,Unknown,October,1996,Friday,West,Low
+10/9/1996,Sherwood,Arkansas,suburban,High School,1,0,October,1996,Wednesday,South,Low
+10/13/1996,St. Louis,Missouri,urban,High School,1,Unknown,October,1996,Sunday,Midwest,Low
+10/16/1996,West Lafayette,Indiana,suburban,College,1,Unknown,October,1996,Wednesday,Midwest,Low
+11/27/1996,Sacramento,California,urban,High School,1,Unknown,November,1996,Wednesday,West,Low
+1/11/1997,Brooklyn,New York,urban,High School,1,Unknown,January,1997,Saturday,Northeast,Low
+1/27/1997,West Palm Beach,Florida,urban,Middle School,1,0,January,1997,Monday,South,Low
+1/31/1997,Tulsa,Oklahoma,urban,High School,1,Unknown,January,1997,Friday,South,Low
+2/19/1997,Bethel,Alaska,rural,High School,2,2,February,1997,Wednesday,West,Medium
+2/20/1997,Jacksonville,Florida,urban,High School,1,Unknown,February,1997,Thursday,South,Low
+3/18/1997,Detroit,Michigan,urban,High School,1,Unknown,March,1997,Tuesday,Midwest,Low
+10/1/1997,Pearl,Mississippi,suburban,High School,3,7,October,1997,Wednesday,South,High
+10/14/1997,Garland,Texas,urban,High School,1,Unknown,October,1997,Tuesday,South,Low
+10/15/1997,Palmetto,Florida,suburban,Middle School,0,1,October,1997,Wednesday,South,Low
+10/22/1997,Norwalk,California,urban,High School,2,Unknown,October,1997,Wednesday,West,Low
+11/13/1997,Sacramento,California,urban,Elementry School,1,Unknown,November,1997,Thursday,West,Low
+12/1/1997,West Paducah,Kentucky,rural,High School,3,5,December,1997,Monday,South,High
+12/15/1997,Stamps,Arkansas,rural,High School,0,2,December,1997,Monday,South,Low
+2/25/1998,Reed City,Michigan,rural,High School,1,Unknown,February,1998,Wednesday,Midwest,Low
+3/1/1998,Philadelphia,Pennsylvania,urban,College,1,3,March,1998,Sunday,Northeast,Medium
+3/24/1998,Jonesboro,Arkansas,urban,Middle School,5,Unknown,March,1998,Tuesday,South,Medium
+3/24/1998,Craighead County,Arkansas,rural,Middle School,5,10,March,1998,Tuesday,South,High
+3/25/1998,Coldwater,Michigan,suburban,High School,1,Unknown,March,1998,Wednesday,Midwest,Low
+3/30/1998,Chapel Hill,North Carolina,urban,Middle School,0,Unknown,March,1998,Monday,South,Low
+4/24/1998,Edinboro,Pennsylvania,rural,Middle School,1,3,April,1998,Friday,Northeast,Medium
+4/28/1998,Pomona,California,urban,Elementry School,2,Unknown,April,1998,Tuesday,West,Low
+5/1/1998,Buffalo,New York,urban,Elementry School,1,Unknown,May,1998,Friday,Northeast,Low
+5/19/1998,Fayetteville,Tennessee,rural,High School,1,0,May,1998,Tuesday,South,Low
+5/21/1998,Springfield,Oregon,urban,High School,4,Unknown,May,1998,Thursday,West,Medium
+5/21/1998,Rialto,California,urban,High School,1,Unknown,May,1998,Thursday,West,Low
+5/21/1998,Springfield,Oregon,suburban,High School,4,23,May,1998,Thursday,West,High
+5/27/1998,Pasadena,California,urban,Middle School,0,Unknown,May,1998,Wednesday,West,Low
+5/29/1998,Fort Lauderdale,Florida,urban,High School,2,Unknown,May,1998,Friday,South,Low
+6/15/1998,Richmond,Virginia,urban,High School,0,2,June,1998,Monday,South,Low
+9/4/1998,San Bernardino,California,urban,College,2,Unknown,September,1998,Friday,West,Low
+9/12/1998,Glendale,California,urban,High School,0,Unknown,September,1998,Saturday,West,Low
+12/10/1998,Detroit,Michigan,urban,College,1,0,December,1998,Thursday,Midwest,Low
+1/8/1999,Carrollton,Georgia,suburban,High School,1,1,January,1999,Friday,South,Low
+1/21/1999,North Richland Hills,Texas,urban,High School,1,Unknown,January,1999,Thursday,South,Low
+2/11/1999,Elgin,Illinois,urban,High School,0,Unknown,February,1999,Thursday,Midwest,Low
+4/16/1999,Notus,Idaho,rural,High School,0,0,April,1999,Friday,West,Low
+4/20/1999,Littleton,Colorado,suburban,High School,15,21,April,1999,Tuesday,West,High
+4/23/1999,Atlanta,Georgia,urban,Middle School,1,Unknown,April,1999,Friday,South,Low
+5/20/1999,Conyers,Georgia,suburban,High School,0,6,May,1999,Thursday,South,High
+8/25/1999,Monticello,Georgia,suburban,High School,1,Unknown,August,1999,Wednesday,South,Low
+9/7/1999,Plano,Texas,urban,High School,1,Unknown,September,1999,Tuesday,South,Low
+9/9/1999,San Jose,California,urban,High School,1,Unknown,September,1999,Thursday,West,Low
+11/19/1999,Deming,New Mexico,rural,Middle School,1,0,November,1999,Friday,West,Low
+12/6/1999,Fort Gibson,Oklahoma,rural,Middle School,0,6,December,1999,Monday,South,High
+1/19/2000,New Port Richey,Florida,suburban,High School,0,Unknown,January,2000,Wednesday,South,Low
+2/29/2000,Flint,Michigan,urban,Elementry School,1,0,February,2000,Tuesday,Midwest,Low
+5/10/2000,Sierra Vista,Arizona,urban,Elementry School,2,Unknown,May,2000,Wednesday,West,Low
+5/26/2000,Lake Worth,Florida,suburban,Middle School,1,0,May,2000,Friday,South,Low
+6/28/2000,Seattle,Washington,urban,College,2,Unknown,June,2000,Wednesday,West,Low
+7/26/2000,Canton,Ohio,urban,High School,1,Unknown,July,2000,Wednesday,Midwest,Low
+8/28/2000,Fayetteville,Arkansas,urban,College,2,0,August,2000,Monday,South,Low
+9/5/2000,Bidwell,Ohio,suburban,Elementry School,2,Unknown,September,2000,Tuesday,Midwest,Low
+9/26/2000,New Orleans,Louisiana,urban,High School,0,2,September,2000,Tuesday,South,Low
+10/23/2000,Los Angeles,California,urban,College,1,Unknown,October,2000,Monday,West,Low
+10/26/2000,Brooklyn,New York,urban,High School,1,Unknown,October,2000,Thursday,Northeast,Low
+10/27/2000,Memphis,Tennessee,urban,High School,1,Unknown,October,2000,Friday,South,Low
+12/1/2000,Granada Hills,California,urban,High School,0,Unknown,December,2000,Friday,West,Low
+12/1/2000,San Diego,California,urban,High School,0,1,December,2000,Friday,West,Low
+1/10/2001,Oxnard,California,urban,High School,1,Unknown,January,2001,Wednesday,West,Low
+1/17/2001,Baltimore,Maryland,urban,High School,1,Unknown,January,2001,Wednesday,South,Low
+1/29/2001,Arlington,Texas,urban,Middle School,1,Unknown,January,2001,Monday,South,Low
+3/2/2001,San Diego,California,urban,High School,0,Unknown,March,2001,Friday,West,Low
+3/5/2001,Santee,California,suburban,High School,2,13,March,2001,Monday,West,High
+3/7/2001,Williamsport,Pennsylvania,suburban,High School,0,1,March,2001,Wednesday,Northeast,Low
+3/22/2001,El Cajon,California,suburban,High School,0,5,March,2001,Thursday,West,Medium
+3/30/2001,Gary,Indiana,urban,High School,1,0,March,2001,Friday,Midwest,Low
+4/3/2001,Klein,Texas,urban,Middle School,0,Unknown,April,2001,Tuesday,South,Low
+4/25/2001,Cleveland,Ohio,urban,High School,1,Unknown,April,2001,Wednesday,Midwest,Low
+5/15/2001,Ennis,Texas,suburban,High School,0,Unknown,May,2001,Tuesday,South,Low
+5/16/2001,Parkland,Washington,suburban,College,2,0,May,2001,Wednesday,West,Low
+5/17/2001,Pierce County,Washington,urban,College,1,Unknown,May,2001,Thursday,West,Low
+10/12/2001,Taylorsville,Utah,urban,High School,0,Unknown,October,2001,Friday,West,Low
+11/12/2001,Caro,Michigan,suburban,High School,0,Unknown,November,2001,Monday,Midwest,Low
+1/15/2002,New York City,New York,urban,High School,0,2,January,2002,Tuesday,Northeast,Low
+1/16/2002,Grundy,Virginia,rural,College,3,3,January,2002,Wednesday,South,High
+2/20/2002,Milwaukee,Wisconsin,urban,High School,1,0,February,2002,Wednesday,Midwest,Low
+6/11/2002,Conception,Missouri,rural,College,3,2,June,2002,Tuesday,Midwest,Medium
+7/26/2002,Charlotte,North Carolina,urban,Middle School,1,Unknown,July,2002,Friday,South,Low
+10/4/2002,San Antonio,Texas,urban,Middle School,1,Unknown,October,2002,Friday,South,Low
+10/7/2002,Bowie,Maryland,suburban,Middle School,0,1,October,2002,Monday,South,Low
+10/28/2002,Tucson,Arizona,urban,College,4,0,October,2002,Monday,West,Medium
+10/29/2002,Jersey City,New Jersey,urban,High School,0,1,October,2002,Tuesday,Northeast,Low
+11/7/2002,Liberty,Missouri,suburban,Elementry School,1,Unknown,November,2002,Thursday,Midwest,Low
+12/16/2002,Chicago,Illinois,urban,High School,1,Unknown,December,2002,Monday,Midwest,Low
+3/23/2003,Meridian,Mississippi,suburban,High School,0,Unknown,March,2003,Sunday,South,Low
+4/10/2003,Walnut,California,suburban,High School,0,Unknown,April,2003,Thursday,West,Low
+4/14/2003,New Orleans,Louisiana,urban,High School,1,3,April,2003,Monday,South,Medium
+4/17/2003,Addison,Texas,suburban,Elementry School,1,Unknown,April,2003,Thursday,South,Low
+4/24/2003,Red Lion,Pennsylvania,rural,High School,2,0,April,2003,Thursday,Northeast,Low
+5/9/2003,Cleveland,Ohio,urban,College,1,2,May,2003,Friday,Midwest,Medium
+5/13/2003,Johnstown,Pennsylvania,urban,High School,1,Unknown,May,2003,Tuesday,Northeast,Low
+6/4/2003,Wellsboro,Pennsylvania,suburban,Middle School,0,Unknown,June,2003,Wednesday,Northeast,Low
+7/15/2003,Dallas,Texas,urban,High School,0,Unknown,July,2003,Tuesday,South,Low
+9/24/2003,Cold Spring,Minnesota,rural,High School,2,0,September,2003,Wednesday,Midwest,Low
+10/30/2003,Washington,District of Columbia,urban,High School,1,Unknown,October,2003,Thursday,South,Low
+11/7/2003,Sugar Land,Texas,urban,High School,1,Unknown,November,2003,Friday,South,Low
+1/21/2004,Henderson,Nevada,urban,Elementry School,1,Unknown,January,2004,Wednesday,West,Low
+2/2/2004,Washington,District of Columbia,urban,High School,1,0,February,2004,Monday,South,Low
+2/9/2004,East Greenbush,New York,suburban,High School,0,1,February,2004,Monday,Northeast,Low
+2/11/2004,Philadelphia,Pennsylvania,urban,Elementry School,1,Unknown,February,2004,Wednesday,Northeast,Low
+3/17/2004,Joyce,Washington,rural,Middle School,0,Unknown,March,2004,Wednesday,West,Low
+5/7/2004,Randallstown,Maryland,suburban,High School,0,4,May,2004,Friday,South,Medium
+5/24/2004,Salt Lake City,Utah,urban,High School,1,Unknown,May,2004,Monday,West,Low
+6/1/2004,St Croix,Virgin Islands,urban,High School,1,Unknown,June,2004,Tuesday,South,Low
+8/30/2004,Maywood,Illinois,suburban,High School,1,Unknown,August,2004,Monday,Midwest,Low
+10/4/2004,Memphis,Tennessee,urban,High School,0,Unknown,October,2004,Monday,South,Low
+11/22/2004,Philadelphia,Pennsylvania,urban,High School,1,Unknown,November,2004,Monday,Northeast,Low
+12/10/2004,Nine Mile Falls,Washington,suburban,High School,1,Unknown,December,2004,Friday,West,Low
+1/6/2005,Philadelphia,Pennsylvania,urban,High School,1,Unknown,January,2005,Thursday,Northeast,Low
+2/8/2005,Chicago,Illinois,urban,High School,0,1,February,2005,Tuesday,Midwest,Low
+3/2/2005,Dover,Tennessee,rural,High School,1,0,March,2005,Wednesday,South,Low
+3/21/2005,Red Lake,Minnesota,rural,High School,10,7,March,2005,Monday,Midwest,High
+5/17/2005,Lower Allen Township,Pennsylvania,suburban,Elementry School,1,Unknown,May,2005,Tuesday,Northeast,Low
+9/13/2005,Chicago,Illinois,urban,High School,0,1,September,2005,Tuesday,Midwest,Low
+11/8/2005,Jacksboro,Tennessee,rural,High School,1,2,November,2005,Tuesday,South,Medium
+1/13/2006,Longwood,Florida,suburban,Middle School,0,1,January,2006,Friday,South,Low
+1/15/2006,Longwood,Florida,suburban,Middle School,1,Unknown,January,2006,Sunday,South,Low
+2/23/2006,Roseburg,Oregon,suburban,High School,0,1,February,2006,Thursday,West,Low
+3/14/2006,Reno,Nevada,urban,Middle School,0,2,March,2006,Tuesday,West,Low
+6/5/2006,Venice,California,suburban,High School,1,Unknown,June,2006,Monday,West,Low
+8/24/2006,Essex,Vermont,suburban,Elementry School,2,Unknown,August,2006,Thursday,Northeast,Low
+8/24/2006,Essex Junction,Vermont,rural,Elementry School,2,3,August,2006,Thursday,Northeast,Medium
+8/30/2006,Hillsborough,North Carolina,suburban,High School,0,2,August,2006,Wednesday,South,Low
+9/2/2006,Shepherdstown,West Virginia,suburban,College,2,Unknown,September,2006,Saturday,South,Low
+9/2/2006,Shepherdstown,West Virginia,rural,College,3,0,September,2006,Saturday,South,Medium
+9/17/2006,Pittsburgh,Pennsylvania,urban,College,0,5,September,2006,Sunday,Northeast,Medium
+9/27/2006,Bailey,Colorado,suburban,High School,2,0,September,2006,Wednesday,West,Low
+9/29/2006,Cazenovia,Wisconsin,rural,High School,1,0,September,2006,Friday,Midwest,Low
+10/2/2006,Nickel Mines,Pennsylvania,rural,High School,6,3,October,2006,Monday,Northeast,High
+10/9/2006,Joplin,Missouri,urban,Middle School,0,0,October,2006,Monday,Midwest,Low
+10/17/2006,Katy,Texas,suburban,High School,1,Unknown,October,2006,Tuesday,South,Low
+10/29/2006,Fresno,California,urban,Elementry School,1,Unknown,October,2006,Sunday,West,Low
+11/28/2006,Houston,Texas,urban,High School,1,Unknown,November,2006,Tuesday,South,Low
+12/12/2006,Erdenheim,Pennsylvania,rural,Middle School,1,Unknown,December,2006,Tuesday,Northeast,Low
+1/3/2007,Tacoma,Washington,urban,High School,1,0,January,2007,Wednesday,West,Low
+2/8/2007,Prineville,Oregon,suburban,High School,1,Unknown,February,2007,Thursday,West,Low
+3/7/2007,Midland,Michigan,urban,High School,0,Unknown,March,2007,Wednesday,Midwest,Low
+3/7/2007,Greenville,Texas,suburban,High School,0,Unknown,March,2007,Wednesday,South,Low
+3/7/2007,Compton,California,urban,High School,0,1,March,2007,Wednesday,West,Low
+3/24/2007,Greensboro,North Carolina,urban,College,0,Unknown,March,2007,Saturday,South,Low
+4/2/2007,Seattle,Washington,urban,College,1,Unknown,April,2007,Monday,West,Low
+4/10/2007,Gresham,Oregon,urban,High School,0,Unknown,April,2007,Tuesday,West,Low
+4/16/2007,Blacksburg,Virginia,urban,College,33,23,April,2007,Monday,South,High
+9/21/2007,Dover,Delaware,urban,College,1,Unknown,September,2007,Friday,South,Low
+9/28/2007,Oroville,California,suburban,High School,0,Unknown,September,2007,Friday,West,Low
+9/30/2007,Memphis,Tennessee,urban,College,1,Unknown,September,2007,Sunday,South,Low
+10/10/2007,Cleveland,Ohio,urban,High School,1,4,October,2007,Wednesday,Midwest,Medium
+11/6/2007,Miami Gardens,Florida,urban,High School,0,1,November,2007,Tuesday,South,Low
+1/15/2008,Putnam City,Oklahoma,suburban,High School,0,Unknown,January,2008,Tuesday,South,Low
+1/16/2008,Cleveland,Ohio,urban,High School,0,Unknown,January,2008,Wednesday,Midwest,Low
+1/16/2008,Charlotte,North Carolina,urban,High School,0,Unknown,January,2008,Wednesday,South,Low
+2/4/2008,Memphis,Tennessee,urban,High School,0,1,February,2008,Monday,South,Low
+2/7/2008,Portsmouth,Ohio,suburban,Elementry School,0,Unknown,February,2008,Thursday,Midwest,Low
+2/8/2008,Baton Rouge,Louisiana,urban,College,3,0,February,2008,Friday,South,Medium
+2/11/2008,Memphis,Tennessee,urban,High School,0,1,February,2008,Monday,South,Low
+2/12/2008,Oxnard,California,urban,High School,1,0,February,2008,Tuesday,West,Low
+2/14/2008,DeKalb,Illinois,suburban,College,6,21,February,2008,Thursday,Midwest,High
+2/23/2008,Jonesboro,Arkansas,urban,College,0,Unknown,February,2008,Saturday,South,Low
+2/27/2008,Little Rock,Arkansas,urban,College,0,Unknown,February,2008,Wednesday,South,Low
+2/28/2008,Miami Gardens,Florida,urban,High School,0,Unknown,February,2008,Thursday,South,Low
+3/6/2008,Mobile,Alabama,urban,High School,1,Unknown,March,2008,Thursday,South,Low
+3/7/2008,Chicago,Illinois,urban,High School,1,Unknown,March,2008,Friday,Midwest,Low
+4/5/2008,Chicago,Illinois,urban,High School,1,Unknown,April,2008,Saturday,Midwest,Low
+4/16/2008,Fresno,California,urban,High School,1,Unknown,April,2008,Wednesday,West,Low
+4/24/2008,Omaha,Nebraska,urban,Middle School,0,Unknown,April,2008,Thursday,Midwest,Low
+4/29/2008,Washington,District of Columbia,urban,College,0,Unknown,April,2008,Tuesday,South,Low
+7/24/2008,Phoenix,Arizona,urban,College,0,Unknown,July,2008,Thursday,West,Low
+8/14/2008,Federal Way,Washington,suburban,Middle School,1,0,August,2008,Thursday,West,Low
+8/21/2008,Knoxville,Tennessee,urban,High School,1,0,August,2008,Thursday,South,Low
+8/29/2008,Portland,Oregon,urban,High School,0,Unknown,August,2008,Friday,West,Low
+9/2/2008,Willoughby,Ohio,suburban,High School,0,0,September,2008,Tuesday,Midwest,Low
+10/13/2008,San Antonio,Texas,urban,College,1,Unknown,October,2008,Monday,South,Low
+10/16/2008,Detroit,Michigan,urban,High School,1,3,October,2008,Thursday,Midwest,Medium
+10/20/2008,Acton,California,suburban,High School,1,Unknown,October,2008,Monday,West,Low
+10/21/2008,Indianapolis,Indiana,urban,High School,1,Unknown,October,2008,Tuesday,Midwest,Low
+10/26/2008,Conway,Arkansas,suburban,College,2,1,October,2008,Sunday,South,Medium
+10/31/2008,Stockton Springs,Maine,rural,Elementry School,0,Unknown,October,2008,Friday,Northeast,Low
+11/12/2008,Fort Lauderdale,Florida,urban,High School,1,Unknown,November,2008,Wednesday,South,Low
+11/13/2008,Fort Lauderdale,Florida,urban,High School,1,0,November,2008,Thursday,South,Low
+11/15/2008,St. George,Utah,urban,High School,1,Unknown,November,2008,Saturday,West,Low
+11/21/2008,Savannah,Georgia,urban,College,0,Unknown,November,2008,Friday,South,Low
+1/8/2009,New Castle,Delaware,suburban,High School,0,Unknown,January,2009,Thursday,South,Low
+1/9/2009,Chicago,Illinois,urban,High School,0,5,January,2009,Friday,Midwest,Medium
+1/23/2009,Cahokia,Illinois,suburban,High School,1,Unknown,January,2009,Friday,Midwest,Low
+2/7/2009,Houston,Texas,urban,College,1,Unknown,February,2009,Saturday,South,Low
+2/11/2009,El Monte,California,urban,Elementry School,0,Unknown,February,2009,Wednesday,West,Low
+2/17/2009,Detroit,Michigan,urban,High School,0,Unknown,February,2009,Tuesday,Midwest,Low
+3/6/2009,Fayetteville,North Carolina,urban,High School,0,Unknown,March,2009,Friday,South,Low
+3/10/2009,Jacksonville,Florida,urban,High School,2,Unknown,March,2009,Tuesday,South,Low
+4/10/2009,Dearborn,Michigan,urban,College,1,Unknown,April,2009,Friday,Midwest,Low
+4/24/2009,Houston,Texas,urban,College,1,Unknown,April,2009,Friday,South,Low
+4/26/2009,Hampton,Virginia,urban,College,0,3,April,2009,Sunday,South,Medium
+5/1/2009,Sheboygan,Wisconsin,urban,High School,0,Unknown,May,2009,Friday,Midwest,Low
+5/5/2009,Canandaigua,New York,suburban,High School,0,Unknown,May,2009,Tuesday,Northeast,Low
+5/18/2009,Larose,Louisiana,suburban,Middle School,0,Unknown,May,2009,Monday,South,Low
+5/18/2009,Cambridge,Massachusetts,urban,College,1,0,May,2009,Monday,Northeast,Low
+5/18/2009,Larose,Louisiana,rural,Middle School,1,0,May,2009,Monday,South,Low
+6/9/2009,Lexington,Kentucky,urban,Middle School,1,Unknown,June,2009,Tuesday,South,Low
+6/16/2009,San Francisco,California,urban,High School,0,3,June,2009,Tuesday,West,Medium
+6/24/2009,Parkersburg,Iowa,rural,High School,1,Unknown,June,2009,Wednesday,Midwest,Low
+9/2/2009,San Bruno,California,suburban,College,0,Unknown,September,2009,Wednesday,West,Low
+9/3/2009,Atlanta,Georgia,urban,College,1,Unknown,September,2009,Thursday,South,Low
+9/3/2009,San Bruno,California,suburban,College,0,1,September,2009,Thursday,West,Low
+9/8/2009,Stamford,Connecticut,urban,High School,0,Unknown,September,2009,Tuesday,Northeast,Low
+9/14/2009,Grand Rapids,Michigan,urban,High School,0,Unknown,September,2009,Monday,Midwest,Low
+9/16/2009,Henrico,Virginia,urban,High School,0,Unknown,September,2009,Wednesday,South,Low
+10/16/2009,Carolina Forest,South Carolina,suburban,High School,1,Unknown,October,2009,Friday,South,Low
+10/16/2009,Conway,South Carolina,suburban,High School,1,0,October,2009,Friday,South,Low
+10/30/2009,Long Beach,California,urban,High School,1,Unknown,October,2009,Friday,West,Low
+11/16/2009,Dallas,Texas,urban,Elementry School,0,Unknown,November,2009,Monday,South,Low
+12/2/2009,Brockton,Massachusetts,urban,High School,0,Unknown,December,2009,Wednesday,Northeast,Low
+12/8/2009,Woodbridge,Virginia,urban,College,0,Unknown,December,2009,Tuesday,South,Low
+12/11/2009,Shreveport,Louisiana,urban,High School,0,Unknown,December,2009,Friday,South,Low
+1/7/2010,Phoenix,Arizona,urban,High School,0,Unknown,January,2010,Thursday,West,Low
+1/20/2010,Livingston,Alabama,suburban,High School,1,Unknown,January,2010,Wednesday,South,Low
+2/5/2010,Madison,Alabama,suburban,Middle School,1,0,February,2010,Friday,South,Low
+2/10/2010,Knoxville,Tennessee,urban,Elementry School,0,Unknown,February,2010,Wednesday,South,Low
+2/12/2010,Huntsville,Alabama,urban,College,3,3,February,2010,Friday,South,High
+2/19/2010,DeKalb,Illinois,suburban,College,0,1,February,2010,Friday,Midwest,Low
+2/23/2010,Littleton,Colorado,suburban,Middle School,0,2,February,2010,Tuesday,West,Low
+2/26/2010,Tacoma,Washington,urban,Elementry School,2,Unknown,February,2010,Friday,West,Low
+3/9/2010,Columbus,Ohio,urban,College,1,1,March,2010,Tuesday,Midwest,Low
+4/29/2010,Portsmouth,Virginia,urban,High School,0,Unknown,April,2010,Thursday,South,Low
+5/18/2010,South Gate,California,urban,High School,0,Unknown,May,2010,Tuesday,West,Low
+8/31/2010,Blountville,Tennessee,suburban,High School,1,Unknown,August,2010,Tuesday,South,Low
+9/8/2010,Detroit,Michigan,urban,High School,0,2,September,2010,Wednesday,Midwest,Low
+9/16/2010,Moss Bluff,Louisiana,suburban,Middle School,1,Unknown,September,2010,Thursday,South,Low
+9/21/2010,Columbia,South Carolina,urban,High School,0,Unknown,September,2010,Tuesday,South,Low
+9/28/2010,Austin,Texas,urban,College,1,0,September,2010,Tuesday,South,Low
+10/1/2010,Salinas,California,urban,High School,1,0,October,2010,Friday,West,Low
+10/3/2010,Elizabeth City,North Carolina,suburban,College,1,Unknown,October,2010,Sunday,South,Low
+10/8/2010,Carlsbad,California,suburban,Elementry School,0,2,October,2010,Friday,West,Low
+10/25/2010,Selma,Alabama,suburban,Elementry School,0,Unknown,October,2010,Monday,South,Low
+11/29/2010,Marinette,Wisconsin,rural,High School,1,0,November,2010,Monday,Midwest,Low
+12/6/2010,Aurora,Colorado,suburban,High School,0,1,December,2010,Monday,West,Low
+1/5/2011,Omaha,Nebraska,urban,High School,2,2,January,2011,Wednesday,Midwest,Medium
+1/18/2011,Los Angeles,California,urban,High School,0,Unknown,January,2011,Tuesday,West,Low
+2/2/2011,Placerville,California,suburban,Elementry School,1,Unknown,February,2011,Wednesday,West,Low
+2/14/2011,Murfreesboro,Tennessee,urban,College,0,Unknown,February,2011,Monday,South,Low
+2/23/2011,Los Angeles,California,urban,College,1,Unknown,February,2011,Wednesday,West,Low
+3/25/2011,Martinsville,Indiana,rural,Middle School,0,1,March,2011,Friday,Midwest,Low
+3/31/2011,Houston,Texas,urban,High School,1,5,March,2011,Thursday,South,High
+4/6/2011,Opelika,Alabama,suburban,College,1,Unknown,April,2011,Wednesday,South,Low
+4/13/2011,Apopka,Florida,suburban,High School,0,Unknown,April,2011,Wednesday,South,Low
+4/19/2011,Houston,Texas,urban,Elementry School,0,Unknown,April,2011,Tuesday,South,Low
+5/23/2011,Pearl City,Hawaii,suburban,Middle School,0,1,May,2011,Monday,West,Low
+8/26/2011,Harper Woods,Michigan,suburban,High School,0,Unknown,August,2011,Friday,Midwest,Low
+10/24/2011,Fayetteville,North Carolina,urban,High School,0,1,October,2011,Monday,South,Low
+11/15/2011,Berkeley,California,urban,College,0,Unknown,November,2011,Tuesday,West,Low
+12/8/2011,Blacksburg,Virginia,urban,College,2,0,December,2011,Thursday,South,Low
+12/9/2011,Edinburg,Texas,urban,Middle School,0,2,December,2011,Friday,South,Low
+1/4/2012,Brownsville,Texas,urban,Middle School,0,Unknown,January,2012,Wednesday,South,Low
+1/10/2012,Houston,Texas,urban,High School,0,1,January,2012,Tuesday,South,Low
+2/10/2012,Walpole,New Hampshire,suburban,Elementry School,0,Unknown,February,2012,Friday,Northeast,Low
+2/22/2012,Bremerton,Washington,urban,Elementry School,0,Unknown,February,2012,Wednesday,West,Low
+2/27/2012,Chardon,Ohio,rural,High School,3,3,February,2012,Monday,Midwest,High
+3/6/2012,Jacksonville,Florida,urban,High School,2,0,March,2012,Tuesday,South,Low
+3/24/2012,Starkville,Mississippi,suburban,College,1,Unknown,March,2012,Saturday,South,Low
+4/2/2012,Oakland,California,urban,College,7,3,April,2012,Monday,West,High
+5/26/2012,Chapel Hill,North Carolina,urban,Elementry School,1,Unknown,May,2012,Saturday,South,Low
+8/16/2012,Memphis,Tennessee,urban,High School,0,2,August,2012,Thursday,South,Low
+8/27/2012,Perry Hall,Maryland,suburban,High School,0,1,August,2012,Monday,South,Low
+9/7/2012,Normal,Illinois,suburban,High School,0,0,September,2012,Friday,Midwest,Low
+9/12/2012,Baltimore,Maryland,urban,College,0,Unknown,September,2012,Wednesday,South,Low
+10/6/2012,Mobile,Alabama,urban,College,1,0,October,2012,Saturday,South,Low
+10/19/2012,Chicago,Illinois,urban,High School,1,0,October,2012,Friday,Midwest,Low
+10/31/2012,Los Angeles,California,urban,College,0,4,October,2012,Wednesday,West,Medium
+11/30/2012,Baltimore,Maryland,urban,College,0,Unknown,November,2012,Friday,South,Low
+12/14/2012,Newtown,Connecticut,suburban,Elementry School,28,2,December,2012,Friday,Northeast,High
+1/7/2013,Fort Myers,Florida,urban,High School,1,0,January,2013,Monday,South,Low
+1/10/2013,Taft,California,rural,High School,0,2,January,2013,Thursday,West,Low
+1/12/2013,Detroit,Michigan,urban,High School,0,1,January,2013,Saturday,Midwest,Low
+1/15/2013,Hazard,Kentucky,suburban,College,3,Unknown,January,2013,Tuesday,South,Medium
+1/15/2013,St. Louis,Missouri,urban,College,0,2,January,2013,Tuesday,Midwest,Low
+1/15/2013,Hazard,Kentucky,rural,College,3,0,January,2013,Tuesday,South,Medium
+1/16/2013,Chicago,Illinois,urban,College,1,0,January,2013,Wednesday,Midwest,Low
+1/22/2013,Houston,Texas,urban,College,0,3,January,2013,Tuesday,South,Medium
+1/31/2013,Phoenix,Arizona,urban,High School,0,0,January,2013,Thursday,West,Low
+1/31/2013,Atlanta,Georgia,urban,Middle School,0,2,January,2013,Thursday,South,Low
+3/18/2013,Orlando,Florida,urban,College,1,0,March,2013,Monday,South,Low
+4/12/2013,Christiansburg,Virginia,suburban,College,0,Unknown,April,2013,Friday,South,Low
+4/12/2013,Dublin,Virginia,rural,College,0,2,April,2013,Friday,South,Low
+4/16/2013,Grambling,Louisiana,rural,College,0,3,April,2013,Tuesday,South,Medium
+4/18/2013,Cambridge,Massachusetts,urban,College,2,1,April,2013,Thursday,Northeast,Medium
+5/14/2013,Birmingham,Alabama,urban,Middle School,0,0,May,2013,Tuesday,South,Low
+6/7/2013,Santa Monica,California,urban,College,6,4,June,2013,Friday,West,High
+6/20/2013,West Palm Beach,Florida,urban,High School,2,Unknown,June,2013,Thursday,South,Low
+8/20/2013,Decatur,Georgia,urban,High School,0,0,August,2013,Tuesday,South,Low
+8/23/2013,Sardis,Mississippi,rural,High School,1,2,August,2013,Friday,South,Medium
+8/30/2013,Winston-Salem,North Carolina,urban,High School,0,1,August,2013,Friday,South,Low
+10/4/2013,Pine Hills,Florida,suburban,High School,0,2,October,2013,Friday,South,Low
+10/21/2013,Sparks,Nevada,urban,Middle School,2,2,October,2013,Monday,West,Medium
+11/2/2013,Greensboro,North Carolina,urban,College,0,1,November,2013,Saturday,South,Low
+11/3/2013,Lithonia,Georgia,urban,High School,0,2,November,2013,Sunday,South,Low
+11/13/2013,Pittsburgh,Pennsylvania,urban,High School,0,3,November,2013,Wednesday,Northeast,Medium
+12/4/2013,Winter Garden,Florida,suburban,High School,0,1,December,2013,Wednesday,South,Low
+12/13/2013,Centennial,Colorado,suburban,High School,2,0,December,2013,Friday,West,Low
+12/19/2013,Fresno,California,urban,High School,0,1,December,2013,Thursday,West,Low
+1/9/2014,Jackson,Tennessee,rural,High School,0,1,January,2014,Thursday,South,Low
+1/13/2014,New Haven,Connecticut,urban,High School,0,1,January,2014,Monday,Northeast,Low
+1/14/2014,Roswell,New Mexico,rural,Middle School,0,3,January,2014,Tuesday,West,Medium
+1/17/2014,Philadelphia,Pennsylvania,urban,High School,0,2,January,2014,Friday,Northeast,Low
+1/20/2014,Chester,Pennsylvania,urban,College,0,1,January,2014,Monday,Northeast,Low
+1/21/2014,West Lafayette,Indiana,urban,College,1,0,January,2014,Tuesday,Midwest,Low
+1/24/2014,Orangeburg,South Carolina,rural,College,1,0,January,2014,Friday,South,Low
+1/25/2014,Los Angeles,California,urban,College,1,0,January,2014,Saturday,West,Low
+1/27/2014,Carbondale,Illinois,rural,High School,0,1,January,2014,Monday,Midwest,Low
+1/28/2014,Nashville,Tennessee,urban,College,0,1,January,2014,Tuesday,South,Low
+1/30/2014,Palm Bay,Florida,suburban,College,0,1,January,2014,Thursday,South,Low
+1/31/2014,Des Moines,Iowa,urban,High School,0,1,January,2014,Friday,Midwest,Low
+2/10/2014,Salisbury,North Carolina,suburban,High School,0,1,February,2014,Monday,South,Low
+2/10/2014,Lyndhurst,Ohio,suburban,High School,0,0,February,2014,Monday,Midwest,Low
+2/12/2014,Los Angeles,California,urban,College,0,1,February,2014,Wednesday,West,Low
+2/22/2014,Augusta,Georgia,urban,College,0,1,February,2014,Saturday,South,Low
+3/12/2014,Miami,Florida,urban,Elementry School,1,0,March,2014,Wednesday,South,Low
+3/25/2014,College Park,Georgia,urban,High School,0,0,March,2014,Tuesday,South,Low
+4/9/2014,Greenville,North Carolina,urban,High School,0,0,April,2014,Wednesday,South,Low
+4/11/2014,Detroit,Michigan,urban,High School,1,0,April,2014,Friday,Midwest,Low
+5/4/2014,Augusta,Georgia,urban,College,0,1,May,2014,Sunday,South,Low
+5/5/2014,Augusta,Georgia,urban,College,0,1,May,2014,Monday,South,Low
+5/8/2014,Lawrenceville,Georgia,suburban,College,0,1,May,2014,Thursday,South,Low
+5/14/2014,Richmond,California,urban,High School,0,1,May,2014,Wednesday,West,Low
+6/5/2014,Seattle,Washington,urban,College,1,2,June,2014,Thursday,West,Medium
+6/10/2014,Troutdale,Oregon,suburban,High School,2,1,June,2014,Tuesday,West,Medium
+9/9/2014,Miami,Florida,urban,High School,0,1,September,2014,Tuesday,South,Low
+9/27/2014,Terre Haute,Indiana,urban,College,0,1,September,2014,Saturday,Midwest,Low
+9/30/2014,Albemarle,North Carolina,rural,High School,0,1,September,2014,Tuesday,South,Low
+9/30/2014,Louisville,Kentucky,urban,High School,0,1,September,2014,Tuesday,South,Low
+10/3/2014,Fairburn,Georgia,suburban,High School,1,0,October,2014,Friday,South,Low
+10/24/2014,Marysville,Washington,suburban,High School,5,1,October,2014,Friday,West,High
+11/20/2014,Tallahassee,Florida,urban,College,1,3,November,2014,Thursday,South,Medium
+11/20/2014,Miami,Florida,urban,High School,1,1,November,2014,Thursday,South,Low
+12/5/2014,Claremore,Oklahoma,rural,College,1,0,December,2014,Friday,South,Low
+12/12/2014,Portland,Oregon,urban,High School,0,4,December,2014,Friday,West,Medium
+1/15/2015,Milwaukee,Wisconsin,urban,High School,0,3,January,2015,Thursday,Midwest,Medium
+1/16/2015,Ocala,Florida,suburban,High School,0,2,January,2015,Friday,South,Low
+2/4/2015,Frederick,Maryland,suburban,High School,0,2,February,2015,Wednesday,South,Low
+2/14/2015,Merced,California,suburban,Middle School,1,0,February,2015,Saturday,West,Low
+2/23/2015,Daytona Beach,Florida,urban,College,0,3,February,2015,Monday,South,Medium
+3/30/2015,University City,Missouri,urban,Elementry School,0,1,March,2015,Monday,Midwest,Low
+4/13/2015,Goldsboro,North Carolina,rural,College,1,0,April,2015,Tuesday,South,Low
+4/16/2015,Paradis,Louisiana,rural,Middle School,0,1,April,2015,Thursday,South,Low
+4/27/2015,Lacey,Washington,suburban,High School,0,0,April,2015,Sunday,West,Low
+5/12/2015,Jacksonville,Florida,urban,High School,0,2,May,2015,Sunday,South,Low
+5/24/2015,Flint,Michigan,urban,High School,0,7,May,2015,Tuesday,Midwest,High
+8/27/2015,Savannah,Georgia,urban,College,1,0,August,2015,Tuesday,South,Low
+9/3/2015,Sacramento,California,urban,College,1,2,September,2015,Wednesday,West,Medium
+9/14/2015,Cleveland,Mississippi,rural,College,2,0,September,2015,Monday,South,Low
+9/30/2015,Harrisburg,South Dakota,rural,High School,0,1,September,2015,Tuesday,Midwest,Low
+10/1/2015,Roseburg,Oregon,rural,College,10,9,October,2015,Wednesday,West,High
+10/9/2015,Flagstaff,Arizona,urban,College,1,3,October,2015,Tuesday,West,Medium
+10/9/2015,Houston,Texas,urban,College,1,1,October,2015,Friday,South,Low
+10/22/2015,Nashville,Tennessee,urban,College,1,3,October,2015,Thursday,South,Medium
+11/1/2015,Winston-Salem,North Carolina,urban,College,1,1,November,2015,Monday,South,Low
+11/20/2015,North Las Vegas,Nevada,urban,High School,1,0,November,2015,Thursday,West,Low
+1/22/2016,Indianapolis,Indiana,urban,High School,0,1,January,2016,Friday,Midwest,Low
+1/29/2016,Philadelphia,Pennsylvania,urban,High School,0,0,January,2016,Wednesday,Northeast,Low
+2/9/2016,Muskegon Heights,Michigan,urban,High School,0,4,February,2016,Tuesday,Midwest,Medium
+2/12/2016,Glendale,Arizona,suburban,High School,2,0,February,2016,Wednesday,West,Low
+2/29/2016,Middletown,Ohio,suburban,High School,0,4,February,2016,Monday,Midwest,Medium
+4/23/2016,Antigo,Wisconsin,rural,High School,1,2,April,2016,Friday,Midwest,Medium
+6/1/2016,Los Angeles,California,urban,College,2,0,June,2016,Thursday,West,Low
+6/8/2016,Dorchester,Massachusetts,urban,High School,1,3,June,2016,Wednesday,Northeast,Medium
+9/6/2016,Cedar Rapids,Iowa,urban,High School,1,0,September,2016,Friday,Midwest,Low
+9/9/2016,Alpine,Texas,rural,High School,1,2,September,2016,Monday,South,Medium
+9/28/2016,Townville,South Carolina,rural,Elementry School,2,2,September,2016,Wednesday,South,Medium
+10/11/2016,Mobile,Alabama,urban,High School,0,1,October,2016,Monday,South,Low
+10/13/2016,Columbus,Ohio,urban,High School,0,2,October,2016,Monday,Midwest,Low
+10/18/2016,San Francisco,California,urban,High School,0,4,October,2016,Wednesday,West,Medium
+10/25/2016,Sandy,Utah,suburban,Middle School,0,1,October,2016,Tuesday,West,Low
+12/1/2016,Bountiful,Utah,suburban,Middle School,0,0,December,2016,Friday,West,Low
+1/20/2017,West Liberty,Ohio,rural,High School,0,1,January,2017,Monday,Midwest,Low
+1/20/2017,Seattle,Washington,urban,College,0,1,January,2017,Friday,West,Low
+3/21/2017,King City,California,rural,High School,0,1,March,2017,Friday,West,Low
+4/10/2017,San Bernardino,California,urban,Elementry School,3,1,April,2017,Monday,West,Medium
+5/4/2017,Irving,Texas,suburban,College,2,0,May,2017,Thursday,South,Low
+9/13/2017,Rockford,Washington,rural,High School,1,3,September,2017,Thursday,West,Medium
+9/20/2017,Mattoon,Illinois,rural,High School,0,1,September,2017,Monday,Midwest,Low
+11/14/2017,Rancho Tehama Reserve,California,rural,Elementry School,6,18,November,2017,Wednesday,West,High
+12/7/2017,Aztec,New Mexico,rural,High School,3,0,December,2017,Friday,West,Medium
+1/9/2018,Forest City,Iowa,rural,High School,0,0,January,2018,Tuesday,Midwest,Low
+1/20/2018,Winston-Salem,North Carolina,urban,College,1,0,January,2018,Monday,South,Low
+1/22/2018,Italy,Texas,rural,High School,0,1,January,2018,Thursday,South,Low
+1/22/2018,New Orleans,Louisiana,urban,High School,0,1,January,2018,Monday,South,Low
+1/23/2018,Marshall County,Kentucky,rural,High School,2,18,January,2018,Monday,South,High
+2/1/2018,Los Angeles,California,urban,Middle School,0,5,February,2018,Thursday,West,Medium
+2/14/2018,Parkland,Florida,suburban,High School,17,14,February,2018,Wednesday,South,High
+3/2/2018,Mount Pleasant,Michigan,suburban,College,2,0,March,2018,Monday,Midwest,Low
+3/7/2018,Birmingham,Alabama,urban,High School,1,2,March,2018,Monday,South,Medium
+3/14/2018,Birmingham,Alabama,urban,College,2,1,March,2018,Wednesday,South,Medium
+3/20/2018,Great Mills,Maryland,suburban,High School,2,1,March,2018,Thursday,South,Medium
+4/20/2018,Ocala,Florida,suburban,High School,0,1,April,2018,Monday,South,Low
+5/11/2018,Palmdale,California,urban,High School,0,1,May,2018,Friday,West,Low
+5/16/2018,Dixon,Texas,rural,High School,0,1,May,2018,Wednesday,South,Low
+5/18/2018,Santa Fe,Texas,rural,High School,10,10,May,2018,Thursday,South,High
+5/18/2018,Jonesboro,Georgia,urban,High School,1,3,May,2018,Thursday,South,Medium
+5/25/2018,Nobelsville,Indiana,suburban,Middle School,0,2,May,2018,Saturday,Midwest,Low
+8/17/2018,Wellington,Florida,suburban,High School,0,2,August,2018,Wednesday,South,Low
+8/30/2018,San Francisco,California,urban,High School,0,1,August,2018,Thursday,West,Low
+9/5/2018,Providence,Rhode Island,urban,High School,1,1,September,2018,Wednesday,Northeast,Low
+9/10/2018,Memphis,Tennessee,urban,High School,0,1,September,2018,Friday,South,Low
+9/11/2018,Las Vegas,Nevada,urban,High School,1,0,September,2018,Tuesday,West,Low
+10/29/2018,Matthews,North Carolina,suburban,High School,1,1,October,2018,Monday,South,Low
+12/13/2018,Richmond,Indiana,rural,Middle School,1,0,December,2018,Friday,Midwest,Low
+1/25/2019,Mobile,Alabama,urban,High School,0,2,January,2019,Monday,South,Low
+2/8/2019,Baltimore,Maryland,urban,High School,0,1,February,2019,Monday,South,Low
+2/12/2019,Kansas City,Missouri,urban,High School,1,0,February,2019,Thursday,Midwest,Low
+2/14/2019,Rio Rancho,New Mexico,suburban,High School,0,0,February,2019,Thursday,West,Low
+3/22/2019,Blountville,Alabama,rural,Elementry School,0,1,March,2019,Tuesday,South,Low
+4/1/2019,Prescott,Arizona,rural,High School,0,1,April,2019,Monday,West,Low
+4/25/2019,Dekalb,Georgia,suburban,Elementry School,0,10,April,2019,Thursday,South,High
+4/30/2019,Charlotte,North Carolina,urban,College,2,4,April,2019,Friday,South,High
+5/4/2019,Eugene,Oregon,urban,College,1,0,May,2019,Saturday,West,Low
+5/6/2019,Riverview,Florida,suburban,Elementry School,0,0,May,2019,Monday,South,Low
+5/7/2019,Highlands Ranch,Colorado,suburban,High School,1,7,May,2019,Tuesday,West,High
+5/7/2019,Savannah,Georgia,urban,College,0,1,May,2019,Thursday,South,Low
+8/8/2019,Montgomery,Alabama,urban,Elementry School,0,0,August,2019,Monday,South,Low
+8/30/2019,Mobile,Alabama,urban,High School,0,10,August,2019,Thursday,South,High
+10/22/2019,Santa Rosa,California,suburban,High School,0,1,October,2019,Thursday,West,Low
+11/14/2019,Santa Clarita,California,suburban,High School,2,4,November,2019,Friday,West,High
+11/15/2019,Pleasantville,New Jersey,suburban,High School,1,2,November,2019,Friday,Northeast,Medium
+11/23/2019,Union City,California,urban,Elementry School,2,0,November,2019,Monday,West,Low
+12/2/2019,Waukesha,Wisconsin,suburban,High School,0,1,December,2019,Wednesday,Midwest,Low
+12/3/2019,Oshkosh,Wisconsin,suburban,High School,0,2,December,2019,Wednesday,Midwest,Low
+1/8/2020,Belle Glade,Florida,rural,High School,0,1,January,2020,Wednesday,South,Low
+1/11/2020,Dallas,Texas,urban,High School,1,1,January,2020,Friday,South,Low
+1/14/2020,Bellaire,Texas,suburban,High School,1,0,January,2020,Tuesday,South,Low
+1/14/2020,Fort Worth,Texas,urban,High School,0,2,January,2020,Thursday,South,Low
+1/23/2020,Oxnard,California,urban,Elementry School,0,1,January,2020,Thursday,West,Low
+2/3/2020,Commerce,Texas,rural,College,2,1,February,2020,Monday,South,Medium
+9/16/2020,Sonora,California,rural,High School,1,0,September,2020,Wednesday,West,Low
+9/16/2020,Macomb,Illinois,rural,College,0,1,September,2020,Monday,Midwest,Low
+2/26/2021,New Orleans,Louisiana,urban,High School,1,0,February,2021,Friday,South,Low
+3/1/2021,Pine Bluff,Arkansas,rural,Middle School,1,0,March,2021,Tuesday,South,Low
+4/12/2021,Knoxville,Tennessee,urban,High School,1,1,April,2021,Monday,South,Low
+4/26/2021,Plymouth,Minnesota,suburban,Middle School,0,0,April,2021,Monday,Midwest,Low
+5/6/2021,Rigby,Idaho,rural,Middle School,0,3,May,2021,Friday,West,Medium
+8/13/2021,Albuquerque,New Mexico,urban,Middle School,1,0,August,2021,Tuesday,West,Low
+8/18/2021,Orangeburg,South Carolina,rural,High School,0,3,August,2021,Tuesday,South,Medium
+8/27/2021,Woodridge,Virginia,suburban,High School,0,2,August,2021,Tuesday,South,Low
+8/27/2021,Sharon Hill,Pennsylvania,suburban,High School,1,4,August,2021,Friday,Northeast,Medium
+8/27/2021,Wilmington,North Carolina,urban,High School,0,1,August,2021,Wednesday,South,Low
+9/1/2021,Winston-Salem,North Carolina,urban,High School,1,0,September,2021,Wednesday,South,Low
+9/4/2021,Towson,Maryland,suburban,College,0,3,September,2021,Friday,South,Medium
+9/20/2021,Newport News,Virginia,urban,High School,0,4,September,2021,Tuesday,South,Medium
+9/21/2021,Wichita,Kansas,urban,High School,0,3,September,2021,Tuesday,Midwest,Medium
+9/24/2021,Fairfield,Alabama,rural,High School,0,1,September,2021,Wednesday,South,Low
+9/30/2021,Memphis,Tennessee,urban,Elementry School,0,1,September,2021,Thursday,South,Low
+9/30/2021,Newton,Mississippi,rural,Elementry School,0,1,September,2021,Thursday,South,Low
+10/1/2021,Houston,Texas,urban,High School,0,1,October,2021,Monday,South,Low
+10/6/2021,Arlington,Texas,urban,High School,0,4,October,2021,Wednesday,South,Medium
+10/12/2021,Chicago,Illinois,urban,High School,0,2,October,2021,Monday,Midwest,Low
+10/13/2021,Grambling,Louisiana,rural,College,1,1,October,2021,Wednesday,South,Low
+10/17/2021,Grambling,Louisiana,rural,College,1,7,October,2021,Wednesday,South,High
+11/1/2021,Madison,Mississippi,rural,High School,0,0,November,2021,Wednesday,South,Low
+11/19/2021,Aurora,Colorado,suburban,High School,0,3,November,2021,Friday,West,Medium
+11/26/2021,Campbell,California,suburban,High School,0,2,November,2021,Monday,West,Low
+11/29/2021,Phoenix,Arizona,urban,High School,0,1,November,2021,Saturday,West,Low
+11/30/2021,Oxford Township,Michigan,rural,High School,4,7,November,2021,Monday,Midwest,High
+11/30/2021,Humbolt,Tennessee,rural,High School,1,2,November,2021,Tuesday,South,Medium
+12/6/2021,Wilmington,California,urban,Elementry School,1,2,December,2021,Wednesday,West,Medium
+12/8/2021,Kansas City,Missouri,urban,Middle School,0,2,December,2021,Thursday,Midwest,Low
+1/4/2022,Rockford,Illinois,urban,High School,0,2,January,2022,Tuesday,Midwest,Low
+1/9/2022,Murfreesboro,North Carolina,rural,College,0,0,January,2022,Thursday,South,Low
+1/11/2022,Albuquerque,New Mexico,urban,High School,0,0,January,2022,Monday,West,Low
+1/19/2022,Sanford,Florida,suburban,High School,0,1,January,2022,Thursday,South,Low
+1/19/2022,Pittsburgh,Pennsylvania,urban,High School,1,0,January,2022,Wednesday,Northeast,Low
+1/21/2022,Derwood,Maryland,suburban,High School,0,1,January,2022,Thursday,South,Low
+1/29/2022,Beloit,Wisconsin,suburban,High School,1,0,January,2022,Saturday,Midwest,Low
+2/1/2022,Richfield,Minnesota,suburban,High School,1,1,February,2022,Tuesday,Midwest,Low
+2/1/2022,Bridgewater,Virginia,suburban,College,2,1,February,2022,Tuesday,South,Medium
+2/8/2022,Catonsville,Maryland,suburban,High School,0,1,February,2022,Thursday,South,Low
+3/4/2022,Olathe,Kansas,suburban,High School,0,3,March,2022,Friday,Midwest,Medium
+3/7/2022,Des Moines,Iowa,urban,High School,1,2,March,2022,Thursday,Midwest,Medium
+3/31/2022,Greenville,South Carolina,urban,Middle School,1,0,March,2022,Wednesday,South,Low
+4/5/2022,Erie,Pennsylvania,urban,High School,0,1,April,2022,Tuesday,Northeast,Low
+4/22/2022,Washington,District of Columbia,urban,High School,0,4,April,2022,Friday,South,Medium
+5/9/2022,Suwanee,Georgia,suburban,High School,0,1,May,2022,Friday,South,Low
+5/17/2022,Chicago,Illinois,urban,Elementry School,0,1,May,2022,Friday,Midwest,Low
+5/24/2022,Uvalde,Texas,rural,Elementry School,22,15,May,2022,Thursday,South,High
+5/31/2022,New Orleans,Louisiana,urban,College,1,2,May,2022,Thursday,South,Medium
+6/1/2022,Los Angeles,California,urban,Elementry School,0,1,June,2022,Monday,West,Low
+8/19/2022,Clarksville,Tennessee,suburban,High School,0,0,August,2022,Thursday,South,Low
+8/19/2022,Groveport,Ohio,suburban,High School,0,0,August,2022,Tuesday,Midwest,Low
+8/29/2022,Oakland,California,urban,High School,0,1,August,2022,Thursday,West,Low
+9/3/2022,Dover,Delaware,urban,College,0,4,September,2022,Monday,South,Medium
+9/24/2022,Richfield,Minnesota,suburban,High School,0,2,September,2022,Tuesday,Midwest,Low
+9/27/2022,Philadelphia,Pennsylvania,urban,High School,1,4,September,2022,Wednesday,Northeast,Medium
+9/28/2022,Oakland,California,urban,High School,0,4,September,2022,Wednesday,West,Medium
+9/30/2022,Tulsa,Oklahoma,urban,High School,1,3,September,2022,Wednesday,South,Medium
+9/30/2022,Newburgh,New York,urban,High School,0,3,September,2022,Friday,Northeast,Medium
+10/5/2022,Tucson,Arizona,urban,College,1,0,October,2022,Wednesday,West,Low
+10/7/2022,Toledo,Ohio,urban,High School,0,3,October,2022,Sunday,Midwest,Medium
+10/8/2022,Baltimore,Maryland,urban,College,0,1,October,2022,Wednesday,South,Low
+10/24/2022,St. Louis,Missouri,urban,High School,3,7,October,2022,Wednesday,Midwest,High
+11/4/2022,West Hartford,Connecticut,suburban,College,0,1,November,2022,Saturday,Northeast,Low
+11/8/2022,Seattle,Washington,urban,High School,1,0,November,2022,Monday,West,Low
+11/12/2022,Orlando,Florida,urban,High School,1,2,November,2022,Friday,South,Medium
+11/13/2022,Charlottesville,Virginia,urban,College,3,2,November,2022,Wednesday,South,Medium
+11/17/2022,Clinton,Indiana,rural,College,0,1,November,2022,Thursday,Midwest,Low
+11/19/2022,Albuquerque,New Mexico,urban,College,1,1,November,2022,Tuesday,West,Low
+11/27/2022,Tallahassee,Florida,urban,College,1,4,November,2022,Wednesday,South,Medium
+12/8/2022,Fuquay-Varina,North Carolina,suburban,Middle School,0,0,December,2022,Tuesday,South,Low
+1/4/2023,Detroit,Michigan,urban,Elementry School,1,0,January,2023,Wednesday,Midwest,Low
+1/5/2023,Rochester,New York,urban,High School,0,0,January,2023,Wednesday,Northeast,Low
+1/6/2023,Newport News,Virginia,urban,Elementry School,0,1,January,2023,Thursday,South,Low
+1/7/2023,South Tabor,Oregon,rural,High School,0,1,January,2023,Monday,West,Low
+1/10/2023,Stanford,Kentucky,rural,Elementry School,0,1,January,2023,Monday,South,Low
+1/23/2023,Des Moines,Iowa,urban,High School,2,1,January,2023,Wednesday,Midwest,Medium
+2/6/2023,Middletown,Delaware,suburban,High School,0,0,February,2023,Sunday,South,Low
+2/13/2023,East Lansing,Michigan,urban,College,4,5,February,2023,Tuesday,Midwest,High
+2/13/2023,Stapleton,New York,suburban,Elementry School,0,0,February,2023,Tuesday,Northeast,Low
+2/14/2023,Homewood West,Pennsylvania,suburban,High School,0,4,February,2023,Wednesday,Northeast,Medium
+2/24/2023,Daytona Beach,Florida,urban,College,0,0,February,2023,Monday,South,Low
+3/3/2023,Orangeburg,South Carolina,rural,College,0,1,March,2023,Friday,South,Low
+3/11/2023,Waterville,Maine,rural,College,0,0,March,2023,Tuesday,Northeast,Low
+3/20/2023,Arlington,Texas,urban,High School,1,1,March,2023,Friday,South,Low
+3/22/2023,Dallas,Texas,urban,High School,0,1,March,2023,Tuesday,South,Low
+3/22/2023,City Park,Colorado,suburban,High School,1,2,March,2023,Thursday,West,Medium
+3/25/2023,Orangeburg,South Carolina,rural,College,0,0,March,2023,Thursday,South,Low
+3/27/2023,Nashville,Tennessee,urban,Elementry School,7,1,March,2023,Thursday,South,High
+3/30/2023,Winston-Salem,North Carolina,urban,College,0,1,March,2023,Wednesday,South,Low
+4/10/2023,Louisville,Kentucky,urban,College,1,1,April,2023,Friday,South,Low
+4/15/2023,Chester County,Pennsylvania,suburban,College,0,2,April,2023,Monday,Northeast,Low
+4/24/2023,Midwest City,Oklahoma,suburban,College,1,0,April,2023,Friday,South,Low
+4/27/2023,Richmond,Virginia,urban,High School,0,2,April,2023,Saturday,South,Low
+4/28/2023,Knoxville,Tennessee,urban,High School,0,1,April,2023,Thursday,South,Low
+4/29/2023,Tallahassee,Florida,urban,College,0,1,April,2023,Friday,South,Low
+5/1/2023,Flint,Michigan,urban,High School,0,1,May,2023,Thursday,Midwest,Low
+5/12/2023,Chadron,Nebraska,rural,College,0,0,May,2023,Thursday,Midwest,Low
+5/12/2023,Lenoir City,Tennessee,rural,High School,1,0,May,2023,Friday,South,Low
+5/24/2023,Pittsburgh,Pennsylvania,urban,High School,1,0,May,2023,Friday,Northeast,Low
+6/2/2023,Worcester,Massachusetts,urban,High School,0,1,June,2023,Tuesday,Northeast,Low
+6/6/2023,Richmond,Virginia,urban,College,2,5,June,2023,Friday,South,High
+7/5/2023,Washington,District of Columbia,urban,College,1,0,July,2023,Thursday,South,Low
+7/13/2023,Washington,District of Columbia,urban,College,1,0,July,2023,Wednesday,South,Low
+8/16/2023,Augusta,Georgia,urban,High School,0,1,August,2023,Tuesday,South,Low
+8/18/2023,Columbus,Georgia,urban,College,2,0,August,2023,Thursday,South,Low
+8/22/2023,Seguin,Texas,rural,Elementry School,0,0,August,2023,Friday,South,Low
+8/22/2023,Huntsville,Alabama,urban,College,0,2,August,2023,Monday,South,Low
+8/25/2023,Choctaw,Oklahoma,rural,High School,1,4,August,2023,Wednesday,South,Medium
+8/25/2023,Greensboro,North Carolina,urban,College,0,1,August,2023,Tuesday,South,Low
+8/28/2023,Chapel Hill,North Carolina,urban,College,1,0,August,2023,Wednesday,South,Low
+9/12/2023,Greensburg,Louisiana,rural,College,1,2,September,2023,Friday,South,Medium
+9/15/2023,Country Club Hills,Illinois,suburban,High School,1,0,September,2023,Wednesday,Midwest,Low
+9/24/2023,Tuskegee,Alabama,rural,College,0,2,September,2023,Wednesday,South,Low
+10/3/2023,Baltimore,Maryland,urban,College,0,5,October,2023,Monday,South,Medium
+10/12/2023,Framingham,Massachusetts,suburban,College,0,0,October,2023,Tuesday,Northeast,Low
+10/15/2023,Kirkwood,Missouri,suburban,Middle School,0,0,October,2023,Tuesday,Midwest,Low
+10/15/2023,Jackson,Mississippi,urban,College,1,0,October,2023,Monday,South,Low
+10/17/2023,Stanford,California,urban,College,0,1,October,2023,Thursday,West,Low
+10/23/2023,Germantown,Wisconsin,suburban,Middle School,1,0,October,2023,Friday,Midwest,Low
+10/28/2023,Worcester,Massachusetts,urban,College,1,1,October,2023,Friday,Northeast,Low
+11/3/2023,Las Vegas,Nevada,urban,High School,0,2,November,2023,Friday,West,Low
+11/13/2023,Victoria,Texas,rural,College,0,1,November,2023,Wednesday,South,Low
+11/13/2023,Prairie View,Texas,rural,College,1,0,November,2023,Wednesday,South,Low
+11/27/2023,Chicago,Illinois,urban,College,0,0,November,2023,Monday,Midwest,Low
+11/28/2023,Newport News,Virginia,urban,College,0,0,November,2023,Friday,South,Low
+12/6/2023,Las Vegas,Nevada,urban,College,4,3,December,2023,Monday,West,High
+1/4/2024,Perry,Iowa,rural,High School,3,6,January,2024,Wednesday,Midwest,High
+1/17/2024,Gary,Indiana,urban,College,0,0,January,2024,Wednesday,Midwest,Low
+1/29/2024,Austin,Texas,urban,High School,0,1,January,2024,Thursday,South,Low
+1/30/2024,Mobile,Alabama,urban,High School,0,2,January,2024,Friday,South,Low
+2/6/2024,Orangeburg,South Carolina,rural,College,0,1,February,2024,Tuesday,South,Low
+2/9/2024,Saco,Maine,rural,High School,0,0,February,2024,Wednesday,Northeast,Low
+2/9/2024,Berkeley,California,urban,College,0,0,February,2024,Tuesday,West,Low
+2/14/2024,Atlanta,Georgia,urban,High School,0,4,February,2024,Wednesday,South,Medium
+2/16/2024,Colorado Springs,Colorado,urban,College,2,0,February,2024,Thursday,West,Low
+2/19/2024,Mesquite,Texas,suburban,High School,0,1,February,2024,Friday,South,Low
+2/25/2024,Evanston,Illinois,suburban,College,0,0,February,2024,Monday,Midwest,Low
+2/26/2024,Odessa,Texas,suburban,High School,0,1,February,2024,Tuesday,South,Low
+3/11/2024,Springfield,Massachusetts,urban,High School,0,0,March,2024,Wednesday,Northeast,Low
+4/2/2024,Cambridge,Massachusetts,urban,College,0,0,April,2024,Wednesday,Northeast,Low
+4/12/2024,Dallas,Texas,urban,High School,0,1,April,2024,Tuesday,South,Low
+4/21/2024,Dover,Delaware,urban,College,1,0,April,2024,Friday,South,Low
+4/22/2024,West Richland,Washington,suburban,Elementry School,1,0,April,2024,Friday,West,Low
+4/15/2024,Greensboro,North Carolina,urban,College,0,0,April,2024,Monday,South,Low
+4/23/2024,Raleigh,North Carolina,urban,College,0,0,April,2024,Monday,South,Low
+4/24/2024,Arlington,Texas,urban,High School,1,0,April,2024,Tuesday,South,Low
+4/30/2024,New York City,New York,urban,College,0,0,April,2024,Thursday,Northeast,Low
+5/1/2024,Mount Horeb,Wisconsin,rural,Middle School,1,0,May,2024,Monday,Midwest,Low
+5/1/2024,Syracuse,New York,urban,College,0,0,May,2024,Sunday,Northeast,Low
+5/3/2024,Washington,District of Columbia,urban,High School,0,1,May,2024,Thursday,South,Low
+5/18/2024,Kennesaw,Georgia,suburban,College,1,0,May,2024,Monday,South,Low
+5/19/2024,Cape Girardeau,Missouri,urban,College,0,2,May,2024,Thursday,Midwest,Low
+6/6/2024,Seattle,Washington,urban,High School,1,0,June,2024,Thursday,West,Low
+8/10/2024,Nashville,Tennessee,urban,College,0,2,August,2024,Friday,South,Low
+8/14/2024,Ettrick,Virginia,rural,College,0,4,August,2024,Tuesday,South,Medium
+8/18/2024,Itta Bena,Mississippi,rural,College,0,2,August,2024,Wednesday,South,Low
+8/26/2024,Houston,Texas,urban,College,2,0,August,2024,Tuesday,South,Low
+8/30/2024,Huntsville,Alabama,urban,College,0,1,August,2024,Wednesday,South,Low
+8/21/2024,San Francisco,California,urban,High School,0,1,August,2024,Thursday,West,Low
+9/3/2024,Huntsville,Alabama,urban,College,0,1,September,2024,Friday,South,Low
+9/4/2024,Winder,Georgia,rural,High School,4,9,September,2024,Wednesday,South,High
+9/4/2024,New York City,New York,urban,High School,0,1,September,2024,Monday,Northeast,Low
+9/6/2024,Joppatowne,Maryland,suburban,High School,1,0,September,2024,Monday,South,Low
+9/10/2024,Omaha,Nebraska,urban,High School,0,1,September,2024,Wednesday,Midwest,Low
+9/19/2024,Atlanta,Georgia,urban,College,0,0,September,2024,Wednesday,South,Low
+9/22/2024,Tucson,Arizona,urban,College,1,0,September,2024,Friday,West,Low
+10/5/2024,Colorado Springs,Colorado,urban,High School,1,0,October,2024,Monday,West,Low
+10/10/2024,Coatesville,Pennsylvania,suburban,High School,0,0,October,2024,Tuesday,Northeast,Low
+10/14/2024,Santa Monica,California,urban,College,2,0,October,2024,Monday,West,Low
+10/17/2024,Louisville,Kentucky,urban,High School,0,1,October,2024,Monday,South,Low
+10/19/2024,Albany,Georgia,urban,College,1,5,October,2024,Monday,South,High
+10/29/2024,Bridgeport,Connecticut,urban,College,0,1,October,2024,Friday,Northeast,Low
+10/31/2024,Painesville Township,Ohio,suburban,Elementry School,0,0,October,2024,Thursday,Midwest,Low
+11/6/2024,Wilmington,Delaware,urban,Middle School,0,0,November,2024,Tuesday,South,Low
+11/8/2024,Philadelphia,Pennsylvania,urban,College,0,1,November,2024,Wednesday,Northeast,Low
+11/10/2024,Country Club Hills,Illinois,suburban,Middle School,1,0,November,2024,Monday,Midwest,Low
+11/10/2024,Tuskegee,Alabama,rural,College,1,16,November,2024,Tuesday,South,High
+12/4/2024,Palermo,California,rural,High School,1,2,December,2024,Tuesday,West,Medium
+12/14/2024,Valdosta,Georgia,urban,College,0,0,December,2024,Tuesday,South,Low
+12/16/2024,Madison,Wisconsin,suburban,High School,3,6,December,2024,Friday,Midwest,High
